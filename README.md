@@ -7,7 +7,7 @@ I am studying phenotypic plasticity in corals with specific interests in shifts 
 ### Ph.D. Dissertation Chapters
 Chapter 1: Coral environmental memory: causes, mechanisms, and consequences for future reefs [View at Trends in Ecology and Evolution](https://www.sciencedirect.com/science/article/pii/S0169534721001877) 
 
-Chapter 2: Relationships between phenotypic plasticity and epigenetic variation in two Caribbean _Acropora_ corals [View at Molecular Ecology](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17072) [Github repository](https://github.com/eelabfiu/BonaireY1)
+Chapter 2: Relationships between phenotypic plasticity and epigenetic variation in two Caribbean _Acropora_ corals [View at Molecular Ecology](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17072), [Github repository](https://github.com/eelabfiu/BonaireY1)
 
 _Chapter 3: The influence of pre-exposure to multiple stressors on the acute thermal tolerance of Acropora cervicornis corals (Manuscript is in preparation)_
 
