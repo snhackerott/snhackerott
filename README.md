@@ -1,16 +1,16 @@
-### Hi there 👋
+# Serena Hackerott
+_Ph.D. Candidate in [Dr. Eirin-Lopez's Environmental Epigenetics Lab](https://environmentalepigenetics.com/), 
+Florida International University NSF [CREST-CAChE](https://crestcache.fiu.edu/) Fellow_
 
-<!--
-**snhackerott/snhackerott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am studying phenotypic plasticity in corals with specific interests in shifts in resilience and the molecular underpinnings of plasticity. I also prioritize the applicability of my research to conservation and restoration efforts. 
 
-Here are some ideas to get you started:
+### Ph.D. Dissertation Chapters
+Chapter 1: Coral environmental memory: causes, mechanisms, and consequences for future reefs [View at Trends in Ecology and Evolution](https://www.sciencedirect.com/science/article/pii/S0169534721001877) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Chapter 2: Relationships between phenotypic plasticity and epigenetic variation in two Caribbean _Acropora_ corals [View at Molecular Ecology](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17072) [Github repository](https://github.com/eelabfiu/BonaireY1)
+
+_Chapter 3: The influence of pre-exposure to multiple stressors on the acute thermal tolerance of Acropora cervicornis corals (Manuscript is in preparation)_
+
+_Chapter 4: The legacy effect of environmental history on coral physiology, growth rate, and thermal tolerance (Manuscript is in preparation)_
+
+See my [website](https://serenahackerott.com/) for more information on my ongoing research, teaching, and outreach as well as my full CV. 
