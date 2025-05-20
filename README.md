@@ -11,7 +11,7 @@ Chapter 1: Coral environmental memory: causes, mechanisms, and consequences for 
 
 Chapter 2: Relationships between phenotypic plasticity and epigenetic variation in two Caribbean _Acropora_ corals [View at Molecular Ecology](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17072), [GitHub repository](https://github.com/eelabfiu/BonaireY1)
 
-Chapter 3: The influence of environmental history on the performance of Acropora cervicornis corals across a spatiotemporal gradient [View at Science of the Total Environment](https://www.sciencedirect.com/science/article/abs/pii/S0048969725010228), [GitHub repository](https://github.com/eelabfiu/Bonaire_memory)
+Chapter 3: The influence of environmental history on the performance of _Acropora cervicornis_ corals across a spatiotemporal gradient [View at Science of the Total Environment](https://www.sciencedirect.com/science/article/abs/pii/S0048969725010228), [GitHub repository](https://github.com/eelabfiu/Bonaire_memory)
 
 _Chapter 4: The legacy effect of environmental history on coral physiology, growth rate, and thermal tolerance (Manuscript is in preparation)_
 
