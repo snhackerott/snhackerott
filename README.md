@@ -18,6 +18,6 @@ _Chapter 4: The legacy effect of environmental history on coral physiology, grow
 ### Additional Dissertation-Related Publications
 Picture of health: evaluating an accessible method for quantifying coral thermal tolerance using photographic color analysis [View at Coral Reefs](https://link.springer.com/article/10.1007/s00338-025-02686-x), [GitHub repository](https://github.com/eelabfiu/CoralColorScore)
 
-DNA methylation dynamics in response to acute thermal exposure reveal the influence of heating, dose and recovery in the staghorn coral _Acropora cervicornis_ In press at Journal of Thermal Biology, (GitHub repository)[https://github.com/eelabfiu/CSHORE_acute]
+DNA methylation dynamics in response to acute thermal exposure reveal the influence of heating, dose and recovery in the staghorn coral _Acropora cervicornis_ In press at Journal of Thermal Biology, [GitHub repository](https://github.com/eelabfiu/CSHORE_acute)
 
 See my [website](https://serenahackerott.com/) for more information on my ongoing research, teaching, and outreach as well as my full CV. 
